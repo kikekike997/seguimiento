@@ -1,0 +1,13 @@
+header{
+    font-family: sans-serif;
+    background-color: white;
+}
+h1{
+    color: blue;
+}
+main{
+    color: gray;
+}
+footer{
+    background-color: black;
+}
